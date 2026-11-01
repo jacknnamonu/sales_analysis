@@ -21,3 +21,6 @@ The dataset used in this project is the **Retail Sales Analysis Data.csv** datas
 - **Languages and Libraries:** Python - Pandas, NumPy, SQL, Matplotlib, Seaborn
 - **Tools:** Google Colab, Github
 - **Data Visualization:** Python Matplotlib and Seaborn Libraries
+### Analysis and Visualizations
+Top Product Categories
+![Top Products](<Assets/Top 10 Products>)
